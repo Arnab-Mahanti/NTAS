@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "valarray": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
